@@ -1,0 +1,11 @@
+{
+    "tilejson": "2.0.0",
+    "name": "Chartbundle US Terminal Area Charts",
+    "version": "1.0.0",
+    "scheme": "xyz",
+    "tiles": [
+        "http://wms.chartbundle.com/tms/v1.0/tac/{z}/{x}/{y}.png?type=google"
+    ],
+    "minzoom": 4,
+    "maxzoom": 14
+}

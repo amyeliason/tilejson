@@ -1,0 +1,11 @@
+{
+    "tilejson": "2.0.0",
+    "name": "NearMap Australia",
+    "version": "1.0.0",
+    "scheme": "xyz",
+    "tiles": [
+        "http://www.nearmap.com/maps/hl=en&nml=Vert&z={z}&x={x}&y={y}"
+    ],
+    "minzoom": 0,
+    "maxzoom": 24
+}
